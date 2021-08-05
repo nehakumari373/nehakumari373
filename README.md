@@ -11,13 +11,10 @@
 <a href="https://www.facebook.com/profile.php?id=100029425296283" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@simrankumari1344" target="_blank" style="margin-left: 5px;">
-  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/simran-kumari-810212190/" target="_blank" style="margin-left: 5px;">
+<a href="https://www.linkedin.com/in/neha-kumari-8a45b41b0/" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/quirky_simran/" target="_blank" style="margin-left: 5px;">
+<a href="https://www.instagram.com/cutie_nehadeep/" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
