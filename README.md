@@ -1,7 +1,7 @@
 
 
 <div align="center" >  
-  <img src="https://github.com/simranquirky/simranquirky/blob/main/simran-photo.jpeg" height=400>
+  <img src="" height=400>
 </div>
 <br>
   <div align="center">
@@ -74,23 +74,23 @@
   ###    OVERVIEW
   
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=simranquirky&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nehakumari373&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 
 <br><br>
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simranquirky&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nehakumari373&layout=compact&theme=radical" />
 <br>
   
 <!-- Contribution Graph -->
 
 <br>
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=simranquirky&theme=xcode" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nehakumari373&theme=xcode" /></p>
     
     
 <br>
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=simranquirky&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nehakumari373&theme=tokyonight" />
   
   <br>  <br>
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=simranquirky&column=7&no-frame=true"/>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=nehakumari373&column=7&no-frame=true"/>
 
 </div>
