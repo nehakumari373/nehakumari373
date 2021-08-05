@@ -5,7 +5,7 @@
 </div>
 <br>
   <div align="center">
-<a href="https://github.com/simranquirky" target="_blank" style="margin-left: 5px;">
+<a href="https://github.com/nehakumari373" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100029425296283" target="_blank" style="margin-left: 5px;">
